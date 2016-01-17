@@ -8,4 +8,6 @@ local function addContentFolder(path)
 		addContentFolder(path .. "/" .. v)
 	end
 end
+
 addContentFolder("sound/untitled_ttt/jihad")
+resource.AddFile("materials/vgui/untitled_ttt/icon_sound.vmt")

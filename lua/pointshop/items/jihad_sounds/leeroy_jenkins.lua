@@ -2,7 +2,7 @@ ITEM.Name = "Leeroy Jenkins"
 ITEM.Price = 3000
 ITEM.NoPreview = true
 ITEM.Except = true
-ITEM.Material = "untitled_ttt/jihad_sound.vmt"
+ITEM.Material = "vgui/untitled_ttt/icon_sound.vmt"
 ITEM.Sound = "untitled_ttt/jihad/leeroy_jenkins.wav"
 
 function ITEM:OnEquip(ply, modifications)
