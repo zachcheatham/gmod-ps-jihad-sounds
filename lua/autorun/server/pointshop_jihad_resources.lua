@@ -9,5 +9,5 @@ local function addContentFolder(path)
 	end
 end
 
-addContentFolder("sound/untitled_ttt/jihad")
-resource.AddFile("materials/vgui/untitled_ttt/icon_sound.vmt")
+--addContentFolder("sound/untitled_ttt/jihad")
+--resource.AddFile("materials/vgui/untitled_ttt/icon_sound.vmt")
